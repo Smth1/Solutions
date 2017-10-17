@@ -12,6 +12,11 @@ namespace NonCustom
     {
         bool IsClosed;
         bool burnUp;
+        Lamp()
+        {
+            IsClosed = false;
+            burnUp = false;
+        }
         void Change()
         {
             Image i = Image.FromFile(filename: "lampochka.jpg");
