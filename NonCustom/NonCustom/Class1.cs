@@ -8,11 +8,11 @@ using System.Windows.Forms;
 
 namespace NonCustom
 {
-    class Class1
+    class ElectricElem
     {
         protected Button theButton;
         Button Prop;
-        public Class1()
+        public ElectricElem()
         {
 
         }

@@ -8,7 +8,7 @@ using System.Drawing;
 
 namespace NonCustom
 {
-    class Lamp : Class1
+    class Lamp : ElectricElem
     {
         bool IsClosed;
         bool burnUp;

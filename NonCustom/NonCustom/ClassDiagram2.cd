@@ -1,41 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="NonCustom.Class1" Collapsed="true">
-    <Position X="26.5" Y="26.5" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA=</HashCode>
-      <FileName>Class1.cs</FileName>
-    </TypeIdentifier>
-  </Class>
   <Class Name="NonCustom.Form1">
-    <Position X="29" Y="26.5" Width="1.5" />
+    <Position X="3" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AASAAAABACAAAgAAAACAAAACAAAIAIAAACACAABBBAA=</HashCode>
       <FileName>Form1.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="NonCustom.Lamp" Collapsed="true">
-    <Position X="26.5" Y="27.75" Width="1.5" />
+    <Position X="0.5" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAABEAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
       <FileName>Lamp.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="NonCustom.Program">
-    <Position X="30.75" Y="26.5" Width="1.5" />
+    <Position X="4.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="NonCustom.Properties.Resources" Collapsed="true">
-    <Position X="32.25" Y="29.25" Width="1.5" />
+  <Class Name="NonCustom.Properties.Resources">
+    <Position X="7.5" Y="1" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="NonCustom.Properties.Settings" Collapsed="true">
-    <Position X="32.5" Y="27.5" Width="1.5" />
+  <Class Name="NonCustom.Properties.Settings">
+    <Position X="10" Y="2.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
     </TypeIdentifier>
