@@ -12,10 +12,12 @@ namespace NonCustom
     {
         bool IsClosed;
         bool burnUp;
+
         Lamp()
         {
             IsClosed = false;
             burnUp = false;
+            Change();
         }
         void Change()
         {

@@ -8,13 +8,16 @@ using System.Windows.Forms;
 
 namespace NonCustom
 {
-    class ElectricElem
+    public class ElectricElem
     {
         protected Button theButton;
-        Button Prop;
+        protected Button Prop;//Propetry button
+        protected GroupBox Gpb;
+        protected ElectricElem LeftElem;//Link to left element
+        protected ElectricElem RightElem;//Link to right element
         public ElectricElem()
         {
-
+            Prop.Hide();
         }
     }
 }
